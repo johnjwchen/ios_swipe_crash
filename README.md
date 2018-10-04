@@ -1,5 +1,6 @@
 # sample code for mocking the bug Terminating app due to uncaught exception 'NSInternalInconsistencyException', reason: 'No occurrence for index path (null)'
 
+```
 *** Terminating app due to uncaught exception 'NSInternalInconsistencyException', reason: 'No occurrence for index path (null)'
 *** First throw call stack:
 (
@@ -31,3 +32,4 @@
 25  libdyld.dylib                       0x00000001082ef551 start + 1
 26  ???                                 0x0000000000000001 0x0 + 1
 )
+```
